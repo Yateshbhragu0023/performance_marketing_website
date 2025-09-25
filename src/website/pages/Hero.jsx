@@ -9,7 +9,7 @@ export default function Hero() {
                     <h1 className='bg-orange-400/60  py-1  px-5 w-28 text-black/80 font-semibold rounded-lg border border-orange-700/50 '>Business</h1>
                     <div className="text-4xl md:text-5xl  font-bold ">
                         <h1 className="text-orange-500">Performance Marketing </h1>
-                        <h1 className="text-black pt-4">More Impact In Business</h1>
+                        <h1 className="text-black pt-4">Let's 10X Your Business</h1>
                     </div>
                     <p className="text-gray-700 max-w-md">
                         Now digital and performance Marketing services in you city dholpur for boost your business
