@@ -6,7 +6,7 @@ export default function Hero() {
         <div className=' py-16 '>
             <div className='w-[85%] mx-auto flex flex-col md:flex-row items-center justify-between'>
                 <div className="md:w-1/2 text-center md:text-left pr-6 space-y-3">
-                    <h1 className='bg-orange-400/60  py-1  px-5 w-28 text-black/80 font-semibold rounded-lg border border-orange-700/50 '>Business</h1>
+                    <h1 className='bg-orange-400/60 md:mx-0  mx-auto py-1  px-5 w-28 text-black/80 font-semibold rounded-lg border border-orange-700/50 '>Business</h1>
                     <div className="text-4xl md:text-5xl  font-bold ">
                         <h1 className="text-orange-500">Performance Marketing </h1>
                         <h1 className="text-black pt-4">Let's 10X Your Business</h1>
