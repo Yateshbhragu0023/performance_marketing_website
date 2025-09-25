@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+::selection {
+  background: #df7e00;  /* amber-500 */
+  color: #ffffff;       /* gray-800 */
+}
+
+html {
+  scroll-behavior: smooth;
+}
