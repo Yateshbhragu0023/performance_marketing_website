@@ -131,7 +131,7 @@ export default function Footer() {
         {/* Bottom copyright */}
         <div className=" relative border-t border-white mt-10 pt-6 text-center text-sm">
           © Copyright 2025 by <span className="text-white font-medium">WEB TH</span>
-          <div onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className=' fixed md:bottom-5 sm:bottom-4 bottom-2 md:right-10 sm:right-4 right-2 bg-orange-600 md:p-4 sm:p-3 p-2 text-white text-xl rounded-full' >
+          <div onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className='z-[499] fixed md:bottom-5 sm:bottom-4 bottom-2 md:right-10 sm:right-4 right-2 bg-orange-600 md:p-4 sm:p-3 p-2 text-white text-xl rounded-full' >
             <FaChevronUp />
           </div>
         </div>
